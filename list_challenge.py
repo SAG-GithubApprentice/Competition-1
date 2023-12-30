@@ -9,7 +9,6 @@ names = ['St. Albans',
         "Sl.Albans", 'St. Allbans', "St, Albans", 'St. Alban', 'St. Alban']
 
 #Expected output:
-
 #['St Albans', 'St Albans', 'St Albans', 'St Ablans', 
 # 'St Albans', 'St Alans', 'S Albans', 'St Albans', 'S Albnas', 
 # 'St Albnas', 'St Albans', 'St Algans', 'Sl Albans', 'St Allbans', 'St Albans', 'St Alban', 'St Alban']
